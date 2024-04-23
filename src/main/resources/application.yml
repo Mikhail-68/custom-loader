@@ -1,0 +1,6 @@
+spring.application.name: custom-loader
+server.port: 8086
+
+logging.level:
+  root: INFO
+  ru.mts.customloader: DEBUG
